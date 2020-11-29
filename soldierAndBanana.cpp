@@ -8,7 +8,6 @@ int main()
     for (int i = 0; i < w; i++)
     {
         d += k * (i + 1);
-        cout << "D value: " << d << endl;
     }
     if (n >= d)
     {
